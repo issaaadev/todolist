@@ -1,4 +1,6 @@
-fake verify auf 2 buttons umändern und everyone pingen bei payment metodes
+poll bot polls zählen
+
++rep bot der nicht +rep löscht und +rep ✅reaction gibt
 
 
-guter musik bot
+
